@@ -26,4 +26,4 @@ To run the script, use `go run main.go <input_file>`
 
 It has automated tests and can be run with `go test` command.
 
-#### ⚠️: Hard exam could take a while to solve since the algorithm is required to try all possible combinations.
+###### [⚠️] Veryhard example could take a while to solve since the algorithm is required to try all possible combinations.
