@@ -2,6 +2,8 @@
 
 This is a simple script that reads a file with a list of tetris pieces and tries to find the best way to place them in a grid.
 
+The algorithm is based on a recursive backtracking approach, which tries all possible combinations of pieces in smaller grids and then expands the grid if tried all possible combinations.
+
 The examples:
 
 ```console
